@@ -24,7 +24,7 @@ In the django_cityloc_pkg/ folder, create a file named setup.cfg and add the con
 The setup.cfg file defines the parameters that are used to build your package. These parameters are also used by installation tools to verify dependencies, and used to document supported usages in PyPI.
 setup.cfg content:
 [metadata]
-    name = django_cityloc_pkg
+    name = django_cityloc_pkg_mrparker25
     version = 0.0.1
     description = A Django app about city locations
     author = Author Name
